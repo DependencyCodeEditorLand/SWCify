@@ -16,16 +16,16 @@
     "url": "https://github.com/swc-project/swcify/issues"
   },
   "peerDependencies": {
-    "@swc/core": "^1.16.1"
+    "@swc/core": "^1.16.20"
   },
   "devDependencies": {
-    "@babel/core": "^8.0.1",
-    "@swc/core": "^1.16.1",
+    "@babel/core": "^8.0.9",
+    "@swc/core": "^1.16.20",
     "browserify": "^17.0.1",
     "convert-source-map": "^2.0.0",
     "cross-spawn": "^7.0.6",
     "lodash.zipobject": "^4.18.0",
-    "tape": "^5.10.2"
+    "tape": "^5.10.3"
   },
   "scripts": {
     "test": "tape test/*.js"
